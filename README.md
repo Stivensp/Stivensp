@@ -12,3 +12,4 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos de desarrollo web
 
 ---
 
+![GIF divertido](https://i.pinimg.com/originals/12/a9/b5/12a9b50719fbdef8ae7a18f9bb883963.gif)
