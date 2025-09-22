@@ -1,10 +1,10 @@
-# 👋 ¡Hola! Soy Steven Blanco 
+#  ¡Hola! Soy Steven Blanco 
 
 Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos de desarrollo web, programación, trading algorítmico y experimentos personales de aprendizaje.
 
 ---
 
-## 🎨 Sobre mí
+##  Sobre mí
 
 - Apasionado por **JavaScript, React, Three.js** y tecnologías web modernas.  
 - Me encanta crear **interfaces interactivas** y explorar **proyectos 3D en la web**.  
