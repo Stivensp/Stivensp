@@ -8,8 +8,9 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos de **desarrollo w
 
 - Apasionado por **Java, SpringBoot, JavaScript, React, Three.js** y tecnologías web modernas.  
 - Me encanta crear **interfaces interactivas** y explorar **proyectos 3D en la web**.  
-- Siempre estoy aprendiendo **nuevas herramientas y frameworks** para mejorar mis proyectos.  
-- Interesado en **Cualquier tipo de proyecto, ya sea fullback-end o front-end o fullstack** proyectos que unan **tecnología con creatividad y dinamismo**.  
+- Siempre estoy aprendiendo **nuevas herramientas y frameworks** para mejorar mis proyectos.
+- Me gusta la calidad sobre la velocidad, tambien diseñar y programar paginas web que se sientan luxury o premiun. 
+- Interesado en **Cualquier tipo de proyecto, ya sea full back-end, front-end o fullstack** proyectos que unan **tecnología con creatividad y dinamismo**.  
 
 ---
 ![GIF divertido](https://github.com/Stivensp/Lotto/blob/main/Grabar_2025_11_01_21_42_41_807%20(1).gif?raw=true)
