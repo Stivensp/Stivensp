@@ -6,7 +6,7 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos de **desarrollo w
 
 ##  Sobre mí ⚡
 
-- Apasionado por **JavaScript, React, Three.js** y tecnologías web modernas.  
+- Apasionado por **Java, SpringBoot, JavaScript, React, Three.js** y tecnologías web modernas.  
 - Me encanta crear **interfaces interactivas** y explorar **proyectos 3D en la web**.  
 - Siempre estoy aprendiendo **nuevas herramientas y frameworks** para mejorar mis proyectos.  
 - Interesado en **Cualquier tipo de proyecto, ya sea fullback-end o front-end o fullstack** proyectos que unan **tecnología con creatividad y dinamismo**.  
