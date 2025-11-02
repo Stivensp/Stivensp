@@ -12,4 +12,5 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos de desarrollo web
 
 ---
 
-![GIF divertido]([https://i.pinimg.com/originals/12/a9/b5/12a9b50719fbdef8ae7a18f9bb883963.gif](https://drive.google.com/file/d/1INHEAu2G-3m3kyneroV5M4U6B8lxwZvP/view?usp=sharing))
+![GIF divertido](https://github.com/Stivensp/Lotto/blob/main/Grabar_2025_11_01_21_42_41_807%20(1).gif?raw=true)
+
