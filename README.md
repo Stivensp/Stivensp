@@ -1,4 +1,4 @@
-#  ¡Hola! Soy Steven Blanco 👨‍💻🚀
+#  ¡Hola! Soy Steven Blanco 🚀
 
 Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos de **desarrollo web**, **programación**, **trading algorítmico** y **experimentos personales de aprendizaje**.
 
